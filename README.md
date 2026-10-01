@@ -1,28 +1,35 @@
-# Hi, I'm Virginia
+# Hi, I'm Virginia 👋
 
-MSc Bioinformatics student at Queen Mary University of London with a background in biology and a strong interest in computational biology, genomics, and data-driven biological research.
+Bioinformatics graduate with an MSc in Bioinformatics from Queen Mary University of London, building on a background in biology. I'm passionate about computational biology, genomics, and data-driven biological research.
 
-My work focuses on combining biological knowledge with programming to analyse genetic variation, protein mutations, and experimental evolution data.
+My work combines biological knowledge with programming to analyse genetic variation, protein mutations, and experimental evolution data.
 
-## Current Work
-I am currently working on a Directed Evolution Monitoring Web Portal that analyses DNA polymerase variants, performs mutation detection, and visualises activity scores across experimental generations.
+## 🔬 Featured Project
+**Directed Evolution Monitoring Web Portal**: a web application that analyses DNA polymerase variants, performs mutation detection, and visualises activity scores across experimental generations.
 
-## Interests
+## 🧬 Interests
 - Bioinformatics
 - Genomics and variant analysis
 - Protein mutation analysis
 - Computational biology
 - Data science in biology
 
-## Technologies
+## 🛠️ Technologies
 - Python
 - Biopython
 - SQL / SQLite
 - Data analysis
 - Biological sequence analysis
 
-## Currently Learning
+## 📚 Currently Learning
 - Machine learning for biological data
 - Structural bioinformatics
 - AI applications in genomics
+
+## 💼 Open To
+Graduate and junior roles in bioinformatics, computational biology, and genomics, as well as research collaborations.
+
+## 📫 Connect With Me
+- LinkedIn: [your-linkedin-url]
+- Email: [your-email]
 
