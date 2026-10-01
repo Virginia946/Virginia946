@@ -29,7 +29,5 @@ My work combines biological knowledge with programming to analyse genetic variat
 ## 💼 Open To
 Graduate and junior roles in bioinformatics, computational biology, and genomics, as well as research collaborations.
 
-## 📫 Connect With Me
-- LinkedIn: [your-linkedin-url]
-- Email: [your-email]
+
 
